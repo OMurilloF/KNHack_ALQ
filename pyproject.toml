@@ -12,3 +12,8 @@ dependencies = [
     "pandas>=2.3.3",
     "quantlib>=1.42.1",
 ]
+
+[dependency-groups]
+dev = [
+    "apm-cli>=0.18.0",
+]
