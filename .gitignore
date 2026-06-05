@@ -229,3 +229,4 @@ Investment_Strategy_Example/Backtest_Engine/*
 Investment_Strategy_Example/Data_Curator/*
 Investment_Strategy_Example/Portfolio_Construction/*
 !**/.gitkeep
+Config/.env
