@@ -17,5 +17,3 @@ dependencies = [
 dev = [
     "apm-cli>=0.18.0",
 ]
-[tool.uv]
-no-build-package = ["pyarrow"]
